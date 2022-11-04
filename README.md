@@ -1,7 +1,7 @@
 # F-PABEE
 **This is our paper "F-PABEE: Flexible-patience-based Early Exit for Single-label and Multi-label text Classification Tasks“ ’s source code, paper is now included in EMNLP 2022 Findings**
 
-You will see our article on the [EMNLP 2022 official website](https://2022.emnlp.org/) in a while,here's our [Paper](https://github.com/JerryYin777/F-PABEE/blob/master/F-PABEE%20Flexible-patience-based%20Early%20Exit%20for%20Single-label%20and.pdf).
+You will see our article on the [EMNLP 2022 official website](https://2022.emnlp.org/) in a while,**here's our [Paper](https://github.com/JerryYin777/F-PABEE/blob/master/F-PABEE%20Flexible-patience-based%20Early%20Exit%20for%20Single-label%20and.pdf).**
 
 ## Contribution
 * F-PABEE outperforms existing early exit models such as Brexit and PABEE on both single-label and multi-label tasks.
