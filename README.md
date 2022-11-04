@@ -28,4 +28,4 @@ We proposed F-PABEE, a novel and efficient method combining the PABEE with a sof
 * Our F-PABEE performs better than the previous SOTA adaptive early exit methods for SLC tasks. 
 * Our F-PABEE performs better than other early exit methods for MLC tasks. As far as we know, we are the first to investigate the early exiting method of MLC tasks.
 * F-PABEE performs well on different PLMs such as BERT and ALBERT. 
-* blation studies show that JSD-divergence’s similarity calculation method outperforms other similarity score calculation methods for our F-PABEE model.
+* Ablation studies show that JSD-divergence’s similarity calculation method outperforms other similarity score calculation methods for our F-PABEE model.
